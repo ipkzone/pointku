@@ -1,4 +1,4 @@
-# pointku
+# INDOMARET POINTKU
 POINTKU IDM
 
 <center><img src="point.png" alt="tools"></center>
